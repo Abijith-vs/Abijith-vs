@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abijith-vs
 - 👀 I’m interested in music,movies
-- 🌱 I’m currently learning c,java,python
+- 🌱 I’m currently learning c,java,python,javascript
 - 💞️ I’m looking to collaborate on ...
 
 <!---
